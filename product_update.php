@@ -5,7 +5,7 @@ $get_name=$_REQUEST['fname'];
 $get_type=$_REQUEST['ftype'];
 $get_dealer=$_REQUEST['fdealer'];
 $get_price=$_REQUEST['fprice'];
- 
+ การที่เรานั้นเอาอะไรมาทำให้เรานั้นรู้สึก่สอา้อ่ส้อิ่แกเอ้แก่
  
  
 try{
